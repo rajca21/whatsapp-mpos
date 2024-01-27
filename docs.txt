@@ -1,0 +1,23 @@
+-- additional dependencies
+(expo installs compatible version with expo, npm installs the latest)
+expo install react-native-safe-area-context
+expo install expo-splash-screen
+expo install expo-font
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npx expo install react-native-gesture-handler
+npm install @react-navigation/bottom-tabs
+expo install @expo/vector-icons
+npm install validate.js
+npm install firebase
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install @react-native-async-storage/async-storage
+npx expo install expo-image-picker
+npm install react-native-uuid
+npm install react-navigation-header-buttons
+npm install react-native-popup-menu
+npx expo install expo-clipboard
+npm install react-native-awesome-alerts
+npx expo install expo-notifications
+npx expo install expo-device
