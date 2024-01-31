@@ -43,6 +43,7 @@ const DataListScreen = (props) => {
             image = currentUser.profilePicture;
             title = `${currentUser.firstName} ${currentUser.lastName}`;
             subTitle = currentUser.about;
+            icon = ''
             itemType = isLoggedInUser ? undefined : 'link';
             onPress = isLoggedInUser
               ? undefined
